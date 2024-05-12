@@ -11,5 +11,5 @@ Project deliverables:
 5. temporal_model.ipynb
 6. project_RF-offset.ipynb
 7. temporal_model.ipynb
-8. LLM.ipynb
-9. Conclusions.ipynb
+8. Conclusions.ipynb
+9. LLM.ipynb
